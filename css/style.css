@@ -28,7 +28,7 @@ body {
   justify-content: flex-end;
 }
 .header {
-  background-image: url('images/image.jpg');
+  background-image: url('https://shriharin1993.github.io/website/images/image.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
